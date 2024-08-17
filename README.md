@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about a variety of programming lang
 
 I have a deep interest in:
 - **Programming Languages**: Python, PHP, Java, C++, JavaScript
-- **Frameworks and Technologies**: Node.js, React, CSS, HTML
+- **Frameworks, Technologies and database**: Node.js, React, CSS, HTML , MYSQL ,SQL ,PostgreSQL , mongoDB 
 
 ## 🌱 Current Work
 
